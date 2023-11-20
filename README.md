@@ -2,7 +2,7 @@
 - 👀 I’m interested in gaming, fantasy, audiobooks.
 - 🌱 I’m currently learning javascript and C#.
 - 💞️ I’m looking to collaborate on javascript and C# projects in general, with a focus on games.
-- 📫 How to reach me: 
+- 📫 How to reach me: discord: ivarmar
 
 <!---
 ivarmar/ivarmar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
